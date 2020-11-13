@@ -1,4 +1,5 @@
- - hosts: dev
+---
+- hosts: dev
   become: True
   tasks:
     - name: Install aptitude using apt
