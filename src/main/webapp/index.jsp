@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2 style="color:red;">Deployed using Jenkins, Ansible!!</h2>
+<h2 style="color:red;">Deployed on Docker using Jenkins and Ansible!!</h2>
 </body>
 </html>
 
